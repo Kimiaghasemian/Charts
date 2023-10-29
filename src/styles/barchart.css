@@ -1,0 +1,5 @@
+.barchart{
+    display: flex;
+    gap: 200px;
+    margin: 100px 0;
+}

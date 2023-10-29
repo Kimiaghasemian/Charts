@@ -1,0 +1,17 @@
+.table table,
+th,
+td {
+  border: 1px solid green;
+  color: gray;
+  border-collapse: collapse;
+  padding: 20px;
+}
+.table table {
+  margin: 100px 0;
+  width: 400px;
+  height: 200px;
+}
+.table {
+  display: flex;
+  gap: 200px;
+}
